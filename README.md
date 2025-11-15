@@ -8,7 +8,7 @@ I enjoy turning ideas into reality through code and constantly improving my skil
 ---
 
 ## 🧠 About Me
-- 💻 I’m currently working with **Flutter**, **Go**, **React**, **Dart**, and **SQLite**  
+- 💻 I’m currently working with **Flutter**, **Dart**, **Go**, **MySQL**, and **SQLite**  
 - 📚 Always learning and exploring new technologies, frameworks, and best practices  
 - 🧩 I love solving problems and contributing to open-source projects  
 - 🎯 My goal is to grow as a developer and collaborate on impactful projects  
@@ -18,10 +18,10 @@ I enjoy turning ideas into reality through code and constantly improving my skil
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-Flutter • HTML • CSS • React  
+Flutter • HTML • CSS • JS  
 
 **Backend:**  
-Dart • Java • Go • SQLite • MySQL  
+Dart • Go • Java • Node.js • MySQL • SQLite  
 
 **Tools & Others:**  
 Git • GitHub • Docker • VS Code • Figma  
