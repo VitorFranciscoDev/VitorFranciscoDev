@@ -8,7 +8,7 @@ I enjoy turning ideas into reality through code and constantly improving my skil
 ---
 
 ## 🧠 About Me
-- 💻 I’m currently working with **Flutter**, **Dart**, **Go**, **MySQL**, and **SQLite**  
+- 💻 I’m currently working with **Vue.js**, **Flutter**, **Go** and **GorillaMux**  
 - 📚 Always learning and exploring new technologies, frameworks, and best practices  
 - 🧩 I love solving problems and contributing to open-source projects  
 - 🎯 My goal is to grow as a developer and collaborate on impactful projects  
@@ -18,20 +18,20 @@ I enjoy turning ideas into reality through code and constantly improving my skil
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-Flutter • HTML • CSS • JS  
+Vue.js • HTML • CSS • TS • Flutter  
 
 **Backend:**  
-Dart • Go • Java • Node.js • MySQL • SQLite  
+Go • GorillaMux • MySQL • PostgreSQL  
 
 **Tools & Others:**  
-Git • GitHub • Docker • VS Code • Figma  
+Git • GitLab • GitHub • DDD • MVC • Figma  
 
 ---
 
 ## 🌍 Find Me Online
 
-- 💼 [LinkedIn](www.linkedin.com/in/vitor-francisco-5073ba397)    
-- ✉️ Email: *vitorfndr@gmail.com*
+- 💼 [LinkedIn](www.linkedin.com/in/vitor-francisco-dev)    
+- ✉️ [vitorfndr@gmail.com](mailto:vitorfndr@gmail.com)
 
 ---
 
